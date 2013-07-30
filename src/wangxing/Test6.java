@@ -17,19 +17,20 @@ public class Test6 {
 
         int s;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("请输入两个正整数：" );
+        System.out.println("请输入一个正整数：" );
         int n = scanner.nextInt();
+        System.out.println("请再输入一个正整数：" );
         int m = scanner.nextInt();
+        int max = m>=n?m:n;
+        int min = m<n?m:n;
         int temp;
-        if (m >= n){
-            if (m %n == 0){
-               s = m;
-            } else {
-                temp = n;
-                n = m%n;
-                m = temp;
-            }
+        while (min != 0){
+            temp = min;
+            min = max%min;
+            max = temp;
         }
+        System.out.println(max + "是最大公约数");
+        System.out.println(m*n/max + "是最小公倍数");
 
     }
 }

@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4b9ccb4-f5c5-497c-84f3-b5ef395fce00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wangxing/J.java" />
+    <list default="true" id="f4b9ccb4-f5c5-497c-84f3-b5ef395fce00" name="Default" comment="１２３１２">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/wangxing/Test6.java" afterPath="$PROJECT_DIR$/src/wangxing/Test6.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Day7.iws" />
@@ -68,44 +66,7 @@
     <favorites_list name="Day7" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Test5.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wangxing/Test5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="30" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="368" max-vertical-offset="621">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test6.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wangxing/Test6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="25" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="943">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="S.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wangxing/S.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="621">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="J.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/wangxing/J.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="699" selection-end="699" vertical-scroll-proportion="0.8666667" vertical-offset="253" max-vertical-offset="989">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -132,8 +93,8 @@
         <option value="$PROJECT_DIR$/src/wangxing/Test3.java" />
         <option value="$PROJECT_DIR$/src/wangxing/Test4.java" />
         <option value="$PROJECT_DIR$/src/wangxing/Test5.java" />
-        <option value="$PROJECT_DIR$/src/wangxing/Test6.java" />
         <option value="$PROJECT_DIR$/src/wangxing/J.java" />
+        <option value="$PROJECT_DIR$/src/wangxing/Test6.java" />
       </list>
     </option>
   </component>
@@ -224,29 +185,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="Application.J">
-    <configuration default="false" name="Test2" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="wangxing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="wangxing.Test2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Day7" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Test6">
     <configuration default="false" name="Test3" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -321,6 +260,28 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="wangxing.J" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Day7" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test6" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="wangxing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="wangxing.Test6" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -427,19 +388,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test3" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test4" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test5" />
-      <item index="4" class="java.lang.String" itemvalue="Application.J" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test3" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test4" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test5" />
+      <item index="3" class="java.lang.String" itemvalue="Application.J" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test6" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.J" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test5" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test4" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test3" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test6" />
+        <item index="1" class="java.lang.String" itemvalue="Application.J" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test5" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test4" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test3" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -475,12 +436,16 @@
       <created>1375095511033</created>
       <updated>1375095511033</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="１２３１２">
+      <created>1375150654269</created>
+      <updated>1375150654269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -502,7 +467,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.56345886" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.56345886" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43654114" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -653,20 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/wangxing/Test5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="30" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="621">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/wangxing/Test6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="25" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="943">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/wangxing/S.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="0" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="621">
@@ -676,7 +627,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/wangxing/J.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="699" selection-end="699" vertical-scroll-proportion="0.8666667" vertical-offset="253" max-vertical-offset="989">
+        <state line="37" column="0" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" vertical-offset="299" max-vertical-offset="989">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wangxing/Test6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="34" selection-start="532" selection-end="532" vertical-scroll-proportion="0.73333335" vertical-offset="0" max-vertical-offset="966">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wangxing/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="30" selection-start="448" selection-end="448" vertical-scroll-proportion="0.577548" vertical-offset="0" max-vertical-offset="677">
           <folding />
         </state>
       </provider>

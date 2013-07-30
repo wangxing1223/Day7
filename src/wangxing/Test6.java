@@ -1,5 +1,7 @@
 package wangxing;
 
+import java.util.Scanner;
+
 /**
  * Created by Administrator on 13-7-29.
  */
@@ -10,4 +12,24 @@ package wangxing;
 // 最小公倍数为两数之积除以最大公约数。
 
 public class Test6 {
+
+    public static void main(String[] args) {
+
+        int s;
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("请输入两个正整数：" );
+        int n = scanner.nextInt();
+        int m = scanner.nextInt();
+        int temp;
+        if (m >= n){
+            if (m %n == 0){
+               s = m;
+            } else {
+                temp = n;
+                n = m%n;
+                m = temp;
+            }
+        }
+
+    }
 }
